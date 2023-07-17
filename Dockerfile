@@ -11,7 +11,7 @@ COPY tailwind.config.js /app/tailwind.config.js
 COPY src /app/src
 
 # Publish
-RUN npn run publish
+RUN npm run publish
 
 FROM --platform=amd64 nginx:latest
 
