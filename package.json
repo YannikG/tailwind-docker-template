@@ -1,0 +1,15 @@
+{
+  "name": "tailwind-docker-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "publish": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --minify",
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "author": "Yannik Gartmann",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
