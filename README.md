@@ -8,7 +8,7 @@ This template allows you to quickly build and deploy a tailwindcss based static 
 * Clone this Repository
 * Install all dependencies with npm
 * Run `npm run dev`
-* Open your index.html in a Webbrowser (I'm using the VS Code extension [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+* Open your index.html in a Webbrowser (I'm using the VS Code extension [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer))
 
 ## How to publish
 * Make your changes
